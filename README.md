@@ -25,6 +25,9 @@ Move all this into a folder called 'codemirror' in your deck.js/extensions/ fold
 
 Include the stylesheet:
 
+    <!-- Default code mirror style sheet -->
+    <link rel="stylesheet" href="../extensions/codemirror/codemirror.css">
+    <!-- Some of our overwrites. You may want to change these to suit your styles -->
     <link rel="stylesheet" href="../extensions/codemirror/deck.codemirror.css">
 
 Include the JS source:
